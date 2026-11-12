@@ -11,3 +11,6 @@ reports/
 
 __pycache__/
 .DS_Store
+
+# Temporary file used while saving settings
+*.tmp

@@ -7,8 +7,7 @@ a = Analysis(
     binaries=[],
     datas=[
 		('settings_biliard.json', '.'),
-		('pool.ico', '.'),
-		('reports', 'reports')
+		('pool.ico', '.')
 	],
     hiddenimports=[],
     hookspath=[],
