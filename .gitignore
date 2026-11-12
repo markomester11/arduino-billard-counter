@@ -1,0 +1,13 @@
+# PyInstaller output
+instroke/build/
+instroke/dist/
+
+# Shift reports contain real business data
+instroke/reports/
+reports/
+
+# Windows shortcuts
+*.lnk
+
+__pycache__/
+.DS_Store
